@@ -25,7 +25,9 @@ The codebase is structured into four modules: `main_simulation`, `main_animation
 
 `genetics.py` contains an evolutionary algorithm that helps the program decide on the best government policies that need to be in place.
 
-If the reader is interested in the mechanics of the mathematics used there is a more detailed explanation in authors semester paper in Serbian titled <mark>"Zombie Pandemic Modeling An Object-Oriented Approach to Simulating Virus Outbreak Dynamics"</mark>. Else the reader can find more about the topic in the `Literature` section. 
+If the reader is interested in the mechanics of the mathematics used there is a more detailed explanation in authors semester paper in Serbian titled 
+<mark>"Zombie Pandemic Modeling An Object-Oriented Approach to Simulating Virus Outbreak Dynamics"</mark>. 
+Else the reader can find more about the topic in the `Literature` section. 
 
 Additionally, there is the folder `animation` which contains all the neede picture and music, as well as other things.
 
