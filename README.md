@@ -5,6 +5,7 @@ language of general application - Python. In addition to the simulation model of
 a simple imaginary animation of the same is presented. A hypothetical zombie apocalypse is 
 explored through the lens of disease spreading models used in practice for diseases such as HIV, malaria, HPV as well as various other tropical diseases.
 
+### Reader can look at the Play-through of the mini-game when they click on the link:
 <p align="center">
   <a href="https://vimeo.com/818051319" target="_blank">
     <img src="https://i.ibb.co/ZVLvMSM/bg-beg1.png" alt="A Play-through of the mini-game">
