@@ -27,9 +27,9 @@ NUM_ZOMBIES = 5
 
 def government_action(env):
     global A, B
-    # After 5 days, the government decision for implementing the policies on taking on the zombie infection
+    # After 2 days, the government decision for implementing the policies on taking on the zombie infection
     # The government policies is implemented through a genetic algorithm
-    yield env.timeout(5 * 86400)
+    yield env.timeout(2 * 86400)
     print("")
     print("This is the moment where the Government policy takes place")
     print("------------------------------------------------------------")

@@ -59,10 +59,12 @@ class ZombieApocalypse():
         """
         if round(self.s[-1]) <= 0 or round(self.s[-1]) > num_humans:
             # we can use matplot lib to figure out if our math is correct.
-            # plt.plot(t, self.s, label="Humans")
-            # plt.plot(t, self.z, label="Zombies")
-            # plt.legend(['Susceptibles', 'Zombies'])
-            # plt.show()
+            '''
+            plt.plot(t[0:np.shape(self.s)], self.s, label="Humans")
+            plt.plot(t[0:np.shape(self.z)], self.z, label="Zombies")
+            plt.legend(['Susceptibles', 'Zombies'])
+            plt.show()
+            '''
 
             for i in range(len(self.s)):
                 # We use num_of_change to decide  if the system changed during time, if it did, we display a message
